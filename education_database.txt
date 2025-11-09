@@ -1,0 +1,41 @@
+TotalCountries: 3
+
+Country: India
+Currency: rupee
+Conversion: 1.0000
+Courses: 1
+ Course: Btech
+ Institutes: 3
+  iit madras
+  iit bombay
+  iit delhi
+ Fee: 600000
+ JobMarket: from 18 to 25 lpa
+-----------------------------
+
+Country: USA
+Currency: USD
+Conversion: 88.6400
+Courses: 1
+ Course: Master Of Science
+ Institutes: 3
+  stanford university
+  massachusetts institute of technolgy(MIT)
+  university of california
+ Fee: $60,000 per year
+ JobMarket: after this course you can expect from $145,000-$180,000
+-----------------------------
+
+Country: London
+Currency: Euros
+Conversion: 102.5500
+Courses: 1
+ Course: business management
+ Institutes: 3
+  london business school
+  imperial college business school
+  UCL school of management
+ Fee: 115,000 euros for full course
+ JobMarket: 60,000-120,000 euros per year
+-----------------------------
+
